@@ -1,4 +1,5 @@
-Brief Introduction About Myself 
+# Brief Introduction About Myself
 
+My name is AbdulHakeem Alakoso. I’m from Lagos, Nigeria. I recently started learning software engineering and AI through the ALX program.
 
-y name is AbdulHakeem Alakoso, a proud participant in the ALX Pathway Program, where I’m developing my skills in entrepreneurship, leadership, and technology to solve real-world problems. As a first-born from a humble background in Lagos, Nigeria, I’ve always been driven by a deep desire to create change in my community—especially in areas like access to clean water, education, and digital opportunity
+I enjoy solving real-world problems with technology and working with teams to build meaningful solutions. I'm excited about growing in tech and using my skills to help others.
