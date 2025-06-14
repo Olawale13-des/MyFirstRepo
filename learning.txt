@@ -1,1 +1,1 @@
-One thing I’ve learned so far in this course is how Git helps me track my work and how GitHub lets me share and collaborate with others easily.
+What I have learned from this course is how Git and GitHub allow me to track my progress, collaborate with others, and manage my code effectively. It also helped me build confidence using VS Code and the terminal.
