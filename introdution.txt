@@ -1,5 +1,4 @@
-introduction.txt
-# Brief Introduction About Myself
+Brief Introduction About Myself
 
 My name is AbdulHakeem Alakoso. I’m from Lagos, Nigeria. I recently started learning software engineering and AI through the ALX program.
 
